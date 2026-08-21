@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-    
+   <teiHeader xml:lang="eng">    
       <fileDesc>
          <titleStmt>
-            <title>Epistula ad Diognetum</title>
+            <title xml:lang="lat">Epistula ad Diognetum</title>
             <author>Pseudo-Justinus Martyr</author>
             <editor>Kirsopp Lake</editor>
-            <funder>A Google Digital Humanities Award</funder>
+            <funder>Google Digital Humanities Awards Program</funder>
             <respStmt>
                <persName>Gregory R. Crane</persName>
                <resp>Editor-in-Chief, Perseus Digital Library</resp>
             </respStmt>
             <respStmt>
                <persName>Matt Munson</persName>
-               <resp>Project Manager (University of Leipzig), 2016 - present</resp>
+               <resp>Project Manager (University of Leipzig)</resp>
             </respStmt>
             <respStmt>
                <persName>Annette Gessner</persName>
-               <resp>Project Assistant (University of Leipzig) 2015 - present</resp>
+               <resp>Project Assistant (University of Leipzig)</resp>
             </respStmt>
             <respStmt>
                <persName>Thibault Clérice</persName>
@@ -43,13 +42,15 @@
                <monogr>
                   <author>Pseudo-Justinus Martyr</author>
                   <editor>Kirsopp Lake</editor>
-                  <title>The Apostolic Fathers, Vol 2</title>
+                  <title>The Apostolic Fathers</title>
                   <imprint>
                      <publisher>William Heinemann; G.P. Putnam's Sons</publisher>
                      <pubPlace>London; New York</pubPlace>
                      <date>1917</date>
+                     <biblScope unit="volume">2</biblScope>
                   </imprint>
                </monogr>
+               <ref target="https://archive.org/details/TheApostolicFathersV2">Internet Archive</ref>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
@@ -110,7 +111,7 @@
             </div>
             <div type="textpart" subtype="section" n="2">
                <p> οὐχ ὁ μέν τις λίθος ἐστίν, ὅμοιος τῷ πατουμένῳ,
-ὁ δ̓ ἐστὶ χαλκός, οὐ κρείσσων τῶν εἰς τὴν χρῆσιν
+                  ὁ δ’ ἐστὶ χαλκός, οὐ κρείσσων τῶν εἰς τὴν χρῆσιν
 ἡμῖν κεχαλκευμένων σκευῶν, ὁ δὲ ξύλον, ἤδη καὶ
 σεσηπός, ὁ δὲ ἄργυρος, χρῄζων ἀνθρώπου τοῦ
 φυλάξαντος, ἵνα μὴ κλαπῇ, ὁ δὲ σίδηρος, ὑπὸ ἰοῦ
@@ -139,7 +140,7 @@
             <div type="textpart" subtype="section" n="5">
                <p> ταῦτα
 θεοὺς καλεῖτε; τούτοις δουλεύετε; τούτοις προσκυνεῖτε,
-τέλεον δ̓ αὐτοῖς ἐξομοιοῦσθε. </p>
+τέλεον δ’ αὐτοῖς ἐξομοιοῦσθε. </p>
             </div>
             <div type="textpart" subtype="section" n="6">
                <p> διὰ
@@ -235,7 +236,7 @@
             <div type="textpart" subtype="section" n="2">
                <p> τό τε γὰρ τῶν ὑπὸ
 τοῦ θεοῦ κτισθέντων εἰς χρῆσιν ἀνθρώπων ἃ μὲν
-ὡς καλῶς κτισθέντα παραδέχεσθαι, ἃ δ̓ ὡς
+ὡς καλῶς κτισθέντα παραδέχεσθαι, ἃ δ’ ὡς
 ἄχρηστα καὶ περισσὰ παραιτεῖσθαι, πῶς οὐκ
 ἀθέμιστον; </p>
             </div>
@@ -297,7 +298,7 @@
             </div>
             <div type="textpart" subtype="section" n="5">
                <p> πατρίδας
-οἰκοῦσιν ἰδίας, ἀλλ̓ ὡς πάροικοι: μετέχουσι
+οἰκοῦσιν ἰδίας, ἀλλ’ ὡς πάροικοι: μετέχουσι
 <pb xml:id="p.360"/>
 πάντων ὡς πολῖται, καὶ πάνθ̓ ὑπομένουσιν ὡς
 ξένοι: πᾶσα ξένη πατρίς ἐστιν αὐτῶν, καὶ πᾶσα
@@ -305,24 +306,24 @@
             </div>
             <div type="textpart" subtype="section" n="6">
                <p> γαμοῦσιν ὡς πάντες, τεκνογονοῦσιν:
-ἀλλ̓ οὐ ῥίπτουσι τὰ γεννώμενα. </p>
+ἀλλ’ οὐ ῥίπτουσι τὰ γεννώμενα. </p>
             </div>
             <div type="textpart" subtype="section" n="7">
                <p> τράπεζαν
 <note>
                      <bibl>II Cor. 10, 3; Rom. 8, 12. 13</bibl>
-                  </note> κοινὴν παρατίθενται, ἀλλ̓ οὐ κοίτην. </p>
+                  </note> κοινὴν παρατίθενται, ἀλλ’ οὐ κοίτην. </p>
             </div>
             <div type="textpart" subtype="section" n="8">
                <p> ἐν
-σαρκὶ τυγχάνουσιν, ἀλλ̓ οὐ κατὰ σάρκα ζῶσιν.
+σαρκὶ τυγχάνουσιν, ἀλλ’ οὐ κατὰ σάρκα ζῶσιν.
 <note>
                      <bibl>Philipp. 3, 18-20</bibl>
                   </note>
                </p>
             </div>
             <div type="textpart" subtype="section" n="9">
-               <p> ἐπὶ γῆς διατρίβουσιν, ἀλλ̓ ἐν οὐρανῷ πολιτεύονται.
+               <p> ἐπὶ γῆς διατρίβουσιν, ἀλλ’ ἐν οὐρανῷ πολιτεύονται.
 </p>
             </div>
             <div type="textpart" subtype="section" n="10">
@@ -377,7 +378,7 @@
          <div type="textpart" subtype="chapter" n="6">
             <div type="textpart" subtype="section" n="1">
                <p>
- Ἁπλῶς δ̓ εἰπεῖν, ὅπερ ἐστὶν σώματι ψυχή,
+                  Ἁπλῶς δ’ εἰπεῖν, ὅπερ ἐστὶν σώματι ψυχή,
 τοῦτ̓ εἰσὶν ἐν κόσμῳ Χριστιανοί. </p>
             </div>
             <div type="textpart" subtype="section" n="2">
@@ -453,16 +454,16 @@
                   </note> μυστηρίων πεπίστευνται. </p>
             </div>
             <div type="textpart" subtype="section" n="2">
-               <p> ἀλλ̓ αὐτὸς
+               <p> ἀλλ’ αὐτὸς
 ἀληθῶς ὁ παντοκράτωρ καὶ παντοκτίστης καὶ
 <pb xml:id="p.364"/>
-ἀόρατος θεός, αὐτὸς ἀπ̓ οὐρανῶν τὴν ἀλήθειαν
+ἀόρατος θεός, αὐτὸς ἀπ’ οὐρανῶν τὴν ἀλήθειαν
 καὶ τὸν λόγον τὸν ἅγιον καὶ ἀπερινόητον ἀνθρώποις
 ἐνίδρυσε καὶ ἐγκατεστήριξε ταῖς καρδίαις
 αὐτῶν: οὐ, καθάπερ ἄν τις εἰκάσειεν, ἀνθρώποις
 ὑπηρέτην τινὰ πέμψας ἢ ἄγγελον ἢ ἄρχοντα ἤ
 τινα τῶν διεπόντων τὰ ἐπίγεια ἤ τινα τῶν
-πεπιστευμένων τὰς ἐν οὐρανοῖς διοικήσεις, ἀλλ̓
+πεπιστευμένων τὰς ἐν οὐρανοῖς διοικήσεις, ἀλλ’ 
 αὐτὸν τὸν τεχνίτην καὶ δημιουργὸν τῶν ὅλων,
 ᾧ τοὺς οὐρανοὺς ἔκτισεν, ᾧ τὴν θάλασσαν
 ἰδίοις ἐνέκλεισεν, οὗ τὰ μυστήρια πιστῶς πάντα
@@ -486,7 +487,7 @@
                </p>
             </div>
             <div type="textpart" subtype="section" n="4">
-               <p> οὐ μὲν οὖν: ἀλλ̓ ἐν ἐπιεικείᾳ καὶ
+               <p> οὐ μὲν οὖν: ἀλλ’ ἐν ἐπιεικείᾳ καὶ
 <note>
                      <bibl>Jo. 3, 17</bibl>
                   </note> πραΰτητι ὡς βασιλεὺς πέμπων υἱὸν βασιλέα
@@ -536,7 +537,7 @@
 ληρώδεις ἐκείνων λόγους ἀποδέχῃ τῶν ἀξιοπίστων
 φιλοσόφων, ὧν οἱ μέν τινες πῦρ ἔφασαν εἶναι τὸν
 θεὸν ʽοὗ μέλλουσι χωρήσειν αὐτοί, τοῦτο καλοῦσι
-θεόν̓, οἱ δὲ ὕδωρ, οἱ δ̓ ἄλλο τι τῶν στοιχείων τῶν
+θεόν̓, οἱ δὲ ὕδωρ, οἱ δ’ ἄλλο τι τῶν στοιχείων τῶν
 ἐκτισμένων ὑπὸ θεοῦ; </p>
             </div>
             <div type="textpart" subtype="section" n="3">
@@ -565,7 +566,7 @@
 καὶ μακρόθυμος. </p>
             </div>
             <div type="textpart" subtype="section" n="8">
-               <p> ἀλλ̓ οὗτος ἦν μὲν ἀεὶ τοιοῦτος
+               <p> ἀλλ’ οὗτος ἦν μὲν ἀεὶ τοιοῦτος
 καὶ ἔστι καὶ ἔσται, χρηστὸς καὶ ἀγαθὸς
 καὶ ἀόργητος καὶ ἀληθής, καὶ μόνος ἀγαθός ἐστιν:
 </p>
@@ -601,7 +602,7 @@
 <note>
                      <bibl>Tit. 3, 3</bibl>
                   </note> ἡδοναῖς καὶ ἐπιθυμίαις ἀπαγομένους. οὐ πάντως
-ἐφηδόμενος τοῖς ἁμαρτήμασιν ἡμῶν, ἀλλ̓ ἀνεχόμενος,
+ἐφηδόμενος τοῖς ἁμαρτήμασιν ἡμῶν, ἀλλ’ ἀνεχόμενος,
 οὐδὲ τῷ τότε τῆς ἀδικίας καιρῷ συνευδοκῶν,
 ἀλλὰ τὸν νῦν τῆς δικαιοσύνης δημιουργῶν, ἵνα ἐν
 τῷ τότε χρόνῳ ἐλεγχθέντες ἐκ τῶν ἰδίων ἔργων
@@ -709,7 +710,7 @@
                   </note> ἐκτὸς τῆς ἐκείνου μεγαλειότητος. </p>
             </div>
             <div type="textpart" subtype="section" n="6">
-               <p> ἀλλ̓ ὅστις
+               <p> ἀλλ’ ὅστις
 τὸ τοῦ πλησίον ἀναδέχεται βάρος, ὃς ἐν ᾧ κρείσσων
 ἐστὶν ἕτερον τὸν ἐλαττούμενον εὐεργετεῖν
 ἐθέλει, ὃς ἃ παρὰ τοῦ θεοῦ λαβὼν ἔχει, ταῦτα τοῖς
@@ -753,7 +754,7 @@
 μαθεῖν τὰ διὰ λόγου δειχθέντα φανερῶς μαθηταῖς,
 οἷς ἐφανέρωσεν ὁ λόγος φανείς, παρρησίᾳ λαλῶν,
 ὑπὸ ἀπίστων μὴ νοούμενος, μαθηταῖς δὲ διηγούμενος,
-οἳ πιστοὶ λογισθέντες ὑπ̓ αὐτοῦ ἔγνωσαν
+οἳ πιστοὶ λογισθέντες ὑπ’ αὐτοῦ ἔγνωσαν
 <note>
                      <bibl>Jo. 1, 9</bibl>
                   </note> πατρὸς μυστήρια; </p>
@@ -770,7 +771,7 @@
                </p>
             </div>
             <div type="textpart" subtype="section" n="4">
-               <p> οὗτος ὁ ἀπ̓ ἀρχῆς, ὁ καινὸς φανεὶς καὶ παλαιὸς
+               <p> οὗτος ὁ ἀπ’ ἀρχῆς, ὁ καινὸς φανεὶς καὶ παλαιὸς
 εὑρεθεὶς καὶ πάντοτε νέος ἐν ἁγίων καρδίαις γεννώμενος.
 <note>
                      <bibl>Ps. 2, 7; Mt. 3, 17</bibl>
@@ -820,15 +821,15 @@
                <p> ἐν γὰρ τούτῳ τῷ χωρίῳ
 <note>
                      <bibl>Gen. 2, 9</bibl>
-                  </note> ξύλον γνώσεως καὶ ξύλον ζωῆς πεφύτευται: ἀλλ̓
-οὐ τὸ τῆς γνώσεως ἀναιρεῖ, ἀλλ̓ ἡ παρακοὴ
+</note> ξύλον γνώσεως καὶ ξύλον ζωῆς πεφύτευται: ἀλλ’ 
+οὐ τὸ τῆς γνώσεως ἀναιρεῖ, ἀλλ’ ἡ παρακοὴ
 ἀναιρεῖ. </p>
             </div>
             <div type="textpart" subtype="section" n="3">
                <p> οὐδὲ γὰρ ἄσημα τὰ γεγραμμένα, ὡς
-θεὸς ἀπ̓ ἀρχῆς ξύλον γνώσεως καὶ ξύλον ζωῆς ἐν
+θεὸς ἀπ’ ἀρχῆς ξύλον γνώσεως καὶ ξύλον ζωῆς ἐν
 μέσῳ παραδείσου ἐφύτευσε, διὰ γνώσεως ζωὴν
-ἐπιδεικνύς: ᾗ μὴ καθαρῶς χρησάμενοι οἱ ἀπ̓ ἀρχῆς
+ἐπιδεικνύς: ᾗ μὴ καθαρῶς χρησάμενοι οἱ ἀπ’ ἀρχῆς
 πλάνῃ τοῦ ὄφεως γεγύμνωνται. </p>
             </div>
             <div type="textpart" subtype="section" n="4">
@@ -853,7 +854,7 @@
 ζῆν. ὁ δὲ μετὰ φόβου ἐπιγνοὺς καὶ ζωὴν ἐπιζητῶν
 <note>
                      <bibl>I Cor. 9, 10</bibl>
-                  </note> ἐπ̓ ἐλπίδι φυτεύει, καρπὸν προσδοκῶν.
+                  </note> ἐπ’ ἐλπίδι φυτεύει, καρπὸν προσδοκῶν.
 </p>
             </div>
             <div type="textpart" subtype="section" n="7">

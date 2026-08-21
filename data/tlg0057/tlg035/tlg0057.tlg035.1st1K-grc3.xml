@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-    <teiHeader>
-    
+    <teiHeader xml:lang="eng">    
         <fileDesc>
             <titleStmt>
                 <title xml:lang="lat">De venereis (ap. Oribasium)</title>
@@ -21,11 +20,11 @@
                 </respStmt>
                 <respStmt>
                     <persName>Matt Munson</persName>
-                    <resp>Project Manager (University of Leipzig), 2016 - present</resp>
+                    <resp>Project Manager (University of Leipzig)</resp>
                 </respStmt>
                 <respStmt>
                     <persName>Annette Gessner</persName>
-                    <resp>Project Assistant (University of Leipzig) 2015 - present</resp>
+                    <resp>Project Assistant (University of Leipzig)</resp>
                 </respStmt>
                 <respStmt>
                     <persName>Thibault Clérice</persName>
@@ -40,8 +39,8 @@
                 <authority>Harvard College Library</authority>
                 <idno type="filename">tlg0057.tlg035.1st1K-grc3.xml</idno>
                 <availability>
-                    <p>Available under a Creative Commons Attribution-ShareAlike 4.0 International
-                        License</p>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International
+                        License</licence>
                 </availability>
                 <date>2016</date>
                 <publisher>Harvard College Library</publisher>
@@ -54,14 +53,14 @@
                             <title xml:lang="lat">Oribasii collectionum medicarum reliquiae</title>
                             <editor>
                                 <persName>
-                                    <name xml:lang="lat">Ioannes Raeder</name>
                                     <name>Hans Raeder</name>
                                 </persName>
                             </editor>
                             <author ref="urn:cts:greekLit:tlg0057">Galen</author>
                             <imprint>
-                                <publisher xml:lang="lat">B.G. Teubneri</publisher>
-                                <pubPlace xml:lang="lat">Leipzig et Berolini</pubPlace>
+                                <publisher>Teubner</publisher>
+                                <pubPlace>Leipzig</pubPlace>
+                                <pubPlace>Berlin</pubPlace>
                                 <date>1928</date>
                             </imprint>
                             <biblScope unit="volume">1</biblScope>
@@ -86,7 +85,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change/>
+            <change when="2025-08-12" who="Alison Babeu">Removing non-work textual data</change>
         </revisionDesc>
   </teiHeader>
 
@@ -95,35 +94,6 @@
             <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0057.tlg035.1st1K-grc3">
                 <div type="textpart" subtype="chapter" n="1">
                     <pb n="187"/>
-                    <lb n="5"/>
-                    <head>λε. Περὶ τῆϲ ἐπὶ τῶν ϲιμῶν διαβάϲεωϲ, ἐκ τοῦ αὐτοῦ λόγου.</head>
-                    <lb n="534"/>
-                    <p>Πνεύματοϲ τονωτικὸν τοῦτο τὸ γυμνάϲιον καὶ εὐκαμπείαϲ τῆϲ <lb n="1"/> περὶ τὸ
-                        ϲῶμα, μάλιϲτα δὲ τῆϲ περὶ ϲκέλη ποιητικὸν μετὰ τοῦ καὶ ἰϲχὺν περιποιεῖν τοῖϲ
-                        κινουμένοιϲ μέρεϲιν· ἔϲτι δὲ καὶ μακροτονίαϲ παραϲκευαϲτικὸν καὶ νεύρων
-                        καταλλάξεωϲ ἐπιτρεπτικόν· μεταβιβάζει <lb n="10"/> καὶ ὕλην καὶ περιττώματα
-                        μετέωρα πρὸϲ τὰϲ ἐξόδουϲ ἀπωθεῖ. εἰ δὲ <lb n="2"/> καὶ μετὰ κρατήϲεωϲ
-                        ἁλτηρίων παραλαμβάνοιτο, τῶν ϲτιβαρωτάτων γυμναϲίων ἕν τι γίνεται, διαπονοῦν
-                        ὁμοίωϲ καὶ τὰ ἄνω καὶ τὰ κάτω τοῦ ϲώματοϲ.</p>
-                </div>
-
-                <div type="textpart" subtype="chapter" n="2">
-                    <head>λϛ. Περὶ ὁπλομαχίαϲ, ἐκ τοῦ αὐτοῦ λόγου.</head>
-                    <lb n="15"/>
-                    <p>Οὐ τῶν παλαιῶν γυμναϲίων τοῦτο, λέγω δὲ τῶν τοῖϲ κά|μνουϲιν <lb n="1"/><lb n="535"/> ὠφελίμων, ἐπεὶ ἄλλωϲ ἡ ἐν ὅπλοιϲ ἄϲκηϲιϲ παλαιά. Ῥωμαῖοι δ᾿
-                        ἐξεῦρον <lb n="2"/> τὴν ὁπλομαχίαν τήνδε, πρῶτον δ᾿ ὑπὲρ τῆϲ εἰϲ πόλεμον
-                        παραϲκευῆϲ· τὸ δὲ νῦν ὑπὲρ τοῦ διαπονεῖν τὰ ϲώματα οἵ γε οὖν ϲτρατιῶται·
-                        μονομάχων γὰρ ὅπλα ἐνδυόμενοι ἢ πρὸϲ ἀντιπάλουϲ ἢ πρὸϲ <lb n="20"/> κίονα ὡϲ
-                        πρὸϲ ἀντίπαλον διαμάχονται. δύναται δὲ τοῦτο τὸ γυμνάϲιον <lb n="3"/>
-                        εὐκίνητόν τε ποιῆϲαι τὸ ϲῶμα καὶ εὔϲαρκον· πλαδαρὰν μέντοι ϲάρκα περιποιεῖ·
-                        κεφαλῇ δ᾿ ἀλυϲιτελὲϲ διά τε τὸ ϲκέπεϲθαι λίαν αὐτὴν ὑπὸ τῶν πίλων καὶ τῆϲ
-                        περικεφαλαίαϲ διά τε τὸ μοχθεῖν ὑπὸ τοῦ βάρουϲ. μέγιϲτον δ᾿ ἐπάγγελμα τοῦδε
-                        τοῦ γυμναϲίου μακρόπνοια καὶ<lb n="4"/>
-                        <lb n="25"/> ϲυντονία τοῦ ϲώματοϲ, ἔνθεν οἱ προεθίϲαντεϲ αὐτῷ πᾶϲαν ἄλλην
-                        ἀποδίωξιν πνεύματοϲ ὑποφέρειν εἰϲὶν ἱκανοί. |</p>
-                </div>
-
-                <div type="textpart" subtype="chapter" n="3">
                     <head>λζ. Περὶ ἀφροδιϲίων, ἐκ τῶν Γαληνοῦ.</head>
                     <lb n="536"/>
                     <p>Ἀφροδιϲίων δὲ κατὰ μὲν Ἐπίκουρον οὐδεμία χρῆϲιϲ ὑγιεινή· κατὰ <lb n="1"/> δὲ

@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="lat">In XII Prophetas</title>
-        <author xml:lang="lat">Cyrillus Alexandrinus</author>
+        <author>Cyril of Alexandria</author>
         <editor>Philip Edward Pusey</editor>
         <sponsor>University of Leipzig</sponsor>
         <funder>European Social Fund Saxony</funder>
@@ -20,11 +20,11 @@
         </respStmt>
         <respStmt>
           <persName>Matt Munson</persName>
-          <resp>Project Manager (University of Leipzig), 2016 - present</resp>
+          <resp>Project Manager (University of Leipzig)</resp>
         </respStmt>
         <respStmt>
           <persName>Annette Geßner</persName>
-          <resp>Project Assistant (University of Leipzig), 2015 - present</resp>
+          <resp>Project Assistant (University of Leipzig)</resp>
         </respStmt>
         <respStmt>
           <persName>Thibault Clérice</persName>
@@ -52,8 +52,8 @@
         <authority>University of Leipzig</authority>
         <idno type="filename">tlg4090.tlg001.1st1K-grc1.xml</idno>
         <availability>
-          <p>Available under a Creative Commons Attribution-ShareAlike 4.0 International
-            License</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International
+            License</licence>
         </availability>
         <date>2016</date>
         <publisher>University of Leipzig</publisher>
@@ -66,7 +66,7 @@
               <title xml:lang="lat">Cyrilli Archiepiscopi Alexandrini In XII Prophetas</title>
               <editor>
                 <persName>
-                  <name xml:lang="lat">Philippus Edvardus Pusey</name>
+                  <name>Philip Edward Pusey</name>
                 </persName>
               </editor>
               <author ref="urn:cts:greekLit:tlg4090" xml:lang="lat">Cyrillus Alexandrinus</author>
@@ -77,6 +77,8 @@
               </imprint>
               <biblScope unit="volume">1-2</biblScope>
             </monogr>
+            <ref target="https://archive.org/details/operacyrilli01cyriuoft">Internet Archive</ref><note>Volume 1</note>
+            <ref target="https://archive.org/details/operacyrilli02cyriuoft">Internet Archive</ref><note>Volume 2</note>
           </biblStruct>
         </listBibl>
       </sourceDesc>
@@ -6646,7 +6648,7 @@ D. τὰ ἐγκλήματα iid. 26. οὖν δὴ ordine inverso D. 30. ἐπ
 <note type="marginal">c</note> θυνaaιι γὰρ ἑαυτοῖς τὰ εἰς ιἱμηιιτίιις, ἔξω θύοντες τὸν ἀμνὸν
 τῆς ἱερᾶς τε καὶ θείας αὐλῆς, τουτέστι τῆς Ἐκκλησίας.</p>
 <note type="marginal">13</note> </div>
-<div type="textpart" subtype="paragraph" n="10"><p>Διότι ἐαλ Θύ6ωω θυσίαν κὼ Τάrω0ι κρέα, κύρωc οὐ nρoοδέεετα
+<div type="textpart" subtype="paragraph" n="10"><p>Διότι ἐαλ Θύ6ωω θυσίαν κὼ Τάrω0ι κρέα, κύρωc οὐ nροοδέεετα
 αὐτd· νυν μνΗσθΗοεται τάο άδικίαο αὐτῶι κω ἐκδικH0ει τὰc
 άμαρτίαο αὐτῶ.</p> <lb n="10"/>
 </div>
@@ -9885,7 +9887,7 @@ pro πάρεξ F. ἐποίμαινόν B.D. (A.V.) ἐποίμανά F. ἐπ
 </div>
 <div type="textpart" subtype="paragraph" n="9"><p>Και εσομαι αὐτοῖο ώα πάνθΗρ και ώο πάρδαλιο- κατά thv οδόν <note type="marginal">7</note>
 ἐκεῖ 0κύνιm δρυμοῦ, ωρ(α ἀΓρο6 δaanά6ει άπορουμένΗ, και <note type="marginal">8</note>
-<lb n="10"/> διαῤμ̔εω 0υΓκλΗ0μὸι καρΜαc αὐτῶ, κΜ φάρονται αὀτoὺc
+<lb n="10"/> διαῤμ̔εω 0υΓκλΗ0μὸι καρΜαc αὐτῶ, κΜ φάρονται αὀτοὺc
 ’πειδὴ γὰρ τῆς θΗρία άρρου διασπάσει γέγονεν.</p> <note type="marginal">b</note>
 </div>
 <div type="textpart" subtype="paragraph" n="10"><p>’Έ/πειδη γὰρ της εὐθυμίας το πλάτος γεγονεν αυτοϊς. 
@@ -11545,7 +11547,7 @@ hoc ordine B. 24. ἔκλαυσεν F. (22. al.) 25. ἠφανίσθη B.F.
 <lb n="20"/> ἔφην, εἰς τὸν τῶν ὅλων Σωτῆρα χριστόν.</p>
 </div>
 <div type="textpart" subtype="paragraph" n="40"><p>Πρὸς σὲ, κύριε, βοήσομαι, ὅτι πῦρ ἀνήλωσε τὰ ὡραῖα τῆς ἐρήμου, <note type="marginal">19</note>
-καὶ φλὸξ ἀνῆψε πάντα τὰ ξύλα τοῦ αΓρoῦ, καὶ πάντα τά κτήνη
+καὶ φλὸξ ἀνῆψε πάντα τὰ ξύλα τοῦ αΓροῦ, καὶ πάντα τά κτήνη
 τοῦ πεδίου ἀνέβλεψαν πρὸς σὲ, ὅτι έζΗράνθΗσαν ἀρέσεις ὑδάτων, <note type="marginal">20</note>
 καὶ πῦρ κατέφαγε τά ὡραῖα τῆς ἐρήμου.</p>
 <lb n="25"/> </div>
@@ -20013,7 +20015,7 @@ invitis Α. Β. Statim διανηξόμ.—ἀξιοῦν (fin. scholii) om. Β
 εὐκόλως εἴς γε τὸ χρῆναί φημι χρηστῆς καὶ ἡμερωτάτης
 ἡμᾶς ἐποπτείας ἀξιοῦν.</p>
 <note type="marginal">6</note> </div>
-<div type="textpart" subtype="paragraph" n="29"><p>Ὁ οiκοδoνῶ εἰς τὸν οὐρανὸν τὴν ἀνάβασιν αὐτοῦ, καὶ τὴν
+<div type="textpart" subtype="paragraph" n="29"><p>Ὁ οiκοδονῶ εἰς τὸν οὐρανὸν τὴν ἀνάβασιν αὐτοῦ, καὶ τὴν
 ἐπαγγελίαν αὐτοῦ ἐπὶ τῆς γῆς θεμελιῶν· ὁ προσκαλούμενος τό
 <note type="marginal">345 Α. a</note> ὕδωρ τῆς θαλάσσης καὶ ἐκχέω αὐτὸ ἐΜ προσώπου τῆς γῆς· <lb n="5"/>
 Κύριος ὁ Θεὸς ὁ Παντοκράτωρ ὄνομα αὐτῷ.</p>
@@ -20143,7 +20145,7 @@ hoc ordine Α.Β. 23—28. κοὶ ποιεῖσθαι—ἐγγιζόντων �
 ιι ματίσει τὸ σῶμα τῆς ταπεινώσεως ἡμῶν σύμμορφον τῷ
 <lb n="15"/> α σώματι τῆς δόξης αὐτοῦ,’’ καὶ τῆς ἑαυτοῦ βασιλείας κοι-
 νωνοὺς εἰσδέξεται. αὐτὸς οὗτός ἐστιν ὁ προσaa‘ιλούμενος τὸ
-ὕpωρ τῆς θόιλιίσσης κόιὶ ἐκχέων ‘ιὀτὸ ἐπὶ προσώπου τῆς γῆς,
+ὕρωρ τῆς θόιλιίσσης κόιὶ ἐκχέων ‘ιὀτὸ ἐπὶ προσώπου τῆς γῆς,
 τουτέστιν, ὁ τὰ πικρά τε καὶ ἀπαράδεκτα καὶ εἰς χρῆσιν
 οὐκ ἐπιτήδεια μετατιθεὶς εἰς τὸ ὠφελοῦν. ιι ἀποκτενεῖ μὲν <note type="marginal">2 Cor. iii. 6.</note>
 <lb n="20"/> " γὰρ τὸ γράμμα’’ τὸ νομικὸν, καθά φησιν ὁ σοφώτατος <note type="marginal">a 347 A.</note>
@@ -20542,7 +20544,7 @@ desunt in Edd. 13, 14. τῷ alt. et τῶν αἰώνων om. Α. 15. Sic Β.<
 <pb n="546"/>
 <head>ΤΟΥ ΑΥΤΟΥ</head>
 <head>ΕΞΗΓΗΣΙΣ</head>
-<head>ΕΙΣ ΤΟΝ ΗΡOΦΗTΗΝ ΑΒΔΙΟΥ.</head>
+<head>ΕΙΣ ΤΟΝ ΗΡΟΦΗTΗΝ ΑΒΔΙΟΥ.</head>
 <note type="marginal">354 A. a</note> <div type="textpart" subtype="paragraph" n="1"><p>ἈΒΔΙΟΥ δὴ πάλιν προφητεύει μὲν ἐν καιροῖς ὡς ἔοικεν,
 καθ’ οὓς καὶ Ἰωήλ, μονονουχὶ δὲ διέλαχε πρὸς αὐτὸν τὴν <lb n="5"/>
 ὅρασιν, καὶ μερίζεται τὸ διήγημα. ὁ μὲν γὰρ θεσπέσιος
@@ -22124,7 +22126,7 @@ pro στιβαροὺς iid. 29. ὧν ὧν—αὐτῶν assumpta ex Β.</not
 οὐ τετίμηκεν, ὡς ἔφην, οὐδὲ αὐτὸν τὸν τοῦ νόμου καὶ προφητῶν
 Δεσπότην.</p>
 <lb n="10"/> </div>
-<div type="textpart" subtype="paragraph" n="50"><p>Καὶ ἦγγρσεν ὁ λόγος πρὸς τὸν βαoιλέα τῆς Νινευὶ, καὶ ἐξανέστη <note type="marginal">6</note>
+<div type="textpart" subtype="paragraph" n="50"><p>Καὶ ἦγγρσεν ὁ λόγος πρὸς τὸν βαοιλέα τῆς Νινευὶ, καὶ ἐξανέστη <note type="marginal">6</note>
 ἀπό τοῦ θρόνου αὐτοῦ, καὶ περιειλετο τὴν στολὴν αὐτοῦ ἀφ’
 ἑαυτοῦ, καὶ περιεβάλετο σάκκον, καὶ ἐκάθισεν ἐπὶ σποδοῦ·
 καὶ ἐκηρύχοη καὶ ἐῤῥέθη ἐν τῇ Νινευὶ παρὰ τοῦ βασιλέως <note type="marginal">7</note>
@@ -27973,7 +27975,7 @@ iid. invitis A.B. Statim τῆς pro τοῖς iid. καὶ assumptum ex A.B. �
 	 <div type="textpart" subtype="commentary" n="nahum">
 <div type="textpart" subtype="book" n="1">
 <pb n="1"/>
-<head>ΕΙΣ ΤΟΝ ΗΡOΦΗTΗΝ ΝΛΟΤΜ.</head>
+<head>ΕΙΣ ΤΟΝ ΗΡΟΦΗTΗΝ ΝΛΟΤΜ.</head>
 <head>ΤΟΜΟΣ ΠΡΩΡΟΣ.</head>
 <div type="textpart" subtype="paragraph" n="1"><p>ἝKΑΣTΟΣ τῶν ἁγίων προφητῶν ἐπί τινι χρησίμῳ καὶ <note type="marginal">a</note>
 ἀναγκαίῳ παρελαμβάνετο πράγματι κατὰ καιροὺς τοῖς θείοις
@@ -28420,7 +28422,7 @@ b καὶ οἷον θαλάσσης δίκην τοῖς ἄλλοις ἔθ�
 αὐτὸν ὑπέστρωσε ποσίν.</p>
 <note type="marginal">c</note> </div>
 <div type="textpart" subtype="paragraph" n="16"><p>Ὠλιγώφθη ἡ Βασανπιτις κὼ ὁ κάρημηλος, κω τὰ ἐξανθοῦντα τοῦ <lb n="15"/>
-<lb n="5"/> Λιβάνου ἐξέλιπε. τὰ ὂρη ἐσείσθησαν ἀπ’ αὀτoῦ, κω οἱ βουνοὶ
+<lb n="5"/> Λιβάνου ἐξέλιπε. τὰ ὂρη ἐσείσθησαν ἀπ’ αὀτοῦ, κω οἱ βουνοὶ
 ἐσαλεύθησαν, κω ἀνεστἀλη ἡ γῆ ἀπὸ προσώπου αὐτοῦ ἡ σύμπασα,
 καὶ πάντες οἱ κατοικοῦντες έν αὐτῇ.</p>
 </div>
@@ -28892,7 +28894,7 @@ ex B.D. αὐτῷ] αὐτῶν D.</note>
 ὑπέκειντο μὲν γὰρ οἷά τινι σκήπτρῳ, κατηχθισμένοι τῇ τῶν
 γραμματέων τε καὶ Φαρισαίων ἀπονοίᾳ τε καὶ ἀγριότητι,
 καὶ μονονουχὶ δεσμοῖς συνεχόμενοι τοῖς ἐκείνων ἐντάλμασιν,
-οὐ παρεδέχοντο τὴν πίστιν. ἀλλ’ ἐξῄρηται μὲν ἡ ῥιίβpος, <lb n="10"/>
+οὐ παρεδέχοντο τὴν πίστιν. ἀλλ’ ἐξῄρηται μὲν ἡ ῥιίβρος, <lb n="10"/>
 τουτέστιν ἡ ἀρχὴ, διεῤῥάγη δὲ τὰ δεσμὰ, καὶ λοιπὸν ἐλευθέρῳ
 φρονήματι προσδεδραμήκασι τῷ χριστῷ, μονονουχὶ προτροπάδην
 ἐπιφωνοῦντες ἀλλήλοις, κἀκεῖνο λέγοντες τὸ διὰ
@@ -31424,7 +31426,7 @@ ex B.D. 23. κατεδηδόκειμεν D. 23-26. οὐ—παντελῶς om.
 <div type="textpart" subtype="paragraph" n="38"><p>Συντέλειαν ἐν ἀγκιστρῳ ἀνέσπασε, καὶ είλκυσεν αὐτό ἐν ἀμφιβλήστρῳ, <lb n="15"/>
 καὶ συνήγαγεν αὐτὸν ἐν ταῖς σαγηναις αὐτοῦ· ἕνεκεν <lb n="16"/>
 <lb n="10"/> τούτου εὐφρανθήσεται καὶ χαρησεται ἠ καρδία αὐτοῦ· ἕνεκεν
-τούτου Θύoει τῇ σαγήνῃ αὐτοῦ καὶ θυμιάσει τῷ ἀμφιβλήστρῳ <note type="marginal">e</note>
+τούτου Θύοει τῇ σαγήνῃ αὐτοῦ καὶ θυμιάσει τῷ ἀμφιβλήστρῳ <note type="marginal">e</note>
 αὐτοῦ, ὅτι ἐν αὐτοῖς ἐλίπανε μερῖδα αὐτοῦ κὼ τὰ βρώματα
 αὐτοῦ ἐκλεκτά· διὰ τοῦτο ἀμφιβαλεῖ τὸ ἀμφίβληστρον αὐτοῦ, <lb n="17"/>
 καὶ διὰ παντὸς ἀποκτένειν ἔθνη οὐ φείσεται.</p>
@@ -34482,7 +34484,7 @@ repugnantibus B.a.b. 17. με om. a.</note>
 </div>
 <div type="textpart" subtype="paragraph" n="2"><p>ΕΞΗΓΗΣΙΣ ΥΠΟΜΝΗΜΑΤΙΚΗ</p>
 </div>
-<div type="textpart" subtype="paragraph" n="3"><p>ΕΙΣ ΤΟΝ ΠΡΟΦΗΤΗΝ ΣOΦΟΝΙΑΝ.</p>
+<div type="textpart" subtype="paragraph" n="3"><p>ΕΙΣ ΤΟΝ ΠΡΟΦΗΤΗΝ ΣΟΦΟΝΙΑΝ.</p>
 <lb n="5"/> </div>
 <div type="textpart" subtype="paragraph" n="4"><p>ΤΟΜΟΣ ΠΡΩΤΟΣ.</p>
 </div>
@@ -46165,7 +46167,7 @@ ad ἀνισχ. conexit manus recens in C.</note>
 
 <div type="textpart" subtype="book" n="5">
 <pb n="469"/>
-<head>ΕΙΣ ΤΟΝ ΗΡOΦΗTΗΝ ΣΑXΑΓΙΑΝ.</head>
+<head>ΕΙΣ ΤΟΝ ΗΡΟΦΗTΗΝ ΣΑXΑΓΙΑΝ.</head>
 <head>ΤΟΜΟΣ ΠΕΜΠΤΟΣ.</head>
 <div type="textpart" subtype="paragraph" n="1"><p>Καὶ είπε Κύριος πρὸς μέ Ἒτι λάβε σεαυτῷ σκεύη ποιμενικά
 ποιμένος ἀπείρου, διότι ἰδού ἐγὼ ἐξεγείρω ποιμένα ἐΜ τὴν <lb n="16"/>
@@ -47905,7 +47907,7 @@ C. 24. πόλιν assumptum ex C.</note>
 <lb n="3"/> </div>
 <div type="textpart" subtype="paragraph" n="6"><p>Καὶ ἐξελεύσεταιδ Κύριος καὶ παρατάεξται ἐν τοῖς ἔθνεσιν ἐκείνοις,
 <note type="marginal">d</note> καθὼς ημερα παρατάξεως αὐτοῦ ἑ ὴμέρᾳ πολέμου. καὶ <lb n="10"/>
-<lb n="4"/> στήσονται οἱ πόδες οὐτoῦ ἐν τῇ ἡμέρᾶ ἐκείνῃ ἐμ τὸ ὄρος
+<lb n="4"/> στήσονται οἱ πόδες οὐτοῦ ἐν τῇ ἡμέρᾶ ἐκείνῃ ἐμ τὸ ὄρος
 τῶν ἐλαιῶν τὸ κατέναντι Ἱερουσαλὴμ ἐξ ἀνατολῶν· καὶ σχισθήσεται
 τὸ ὄρος τῶν ἐλαιῶν, τὸ ἥμισυ αὐτοῦ πρὸς ἀνατολάς,
 κὼ τὸ ἥμισυ αὐτοῦ πρὸς θάλασσαν, χάος μέγα σφόδρα· καὶ
